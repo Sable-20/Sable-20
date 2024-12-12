@@ -47,4 +47,11 @@
 
 ###
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sable-20&repo=vtos)](https://github.com/Sable-20/vtos)
+<div>
+  <p>
+    <a href="https://github.com/Sable-20/VTOS">
+      <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Sable-20&repo=VTOS&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="VTOS">
+    </a>
+  </p>
+</div>
+
