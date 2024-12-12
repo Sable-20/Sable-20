@@ -1,5 +1,6 @@
-<h2 align="left">Hi 👋! My name is Sable and I'm a student at UVM</h2>
-
+<h1>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Hi!;My+name+is+Sable" alt="Typing SVG" /></a>
+</h1>
 <!-- update -->
 
 ###
