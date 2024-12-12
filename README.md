@@ -38,7 +38,12 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Sable-20/Sable-20/output/snake.svg" alt="Snake animation" />
+<!-- snake decoration -->
+<div>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/Sable-20/Sable-20/output/snake.svg" alt="Snake animation" />
+  </p>
+</div>
 
 ###
 
