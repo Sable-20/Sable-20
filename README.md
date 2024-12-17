@@ -10,20 +10,6 @@
 <br>
 <!-- update -->
 
-<!-- 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
--->
-
 ###
 <p align="center">
   <picture>
@@ -37,7 +23,6 @@
     />
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SableTheDev" />
   </picture>
-  <!-- <a href="https://github.com/Sable-20/Sable-20"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=SableTheDev&theme=omni" alt="Sable&#39;s WakaTime stats"></a> -->
 </p>
 
 ###
@@ -72,8 +57,19 @@
 
 <div>
   <p align="center">
-    <a href="https://github.com/Sable-20/VTOS">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Sable-20&repo=VTOS&theme=omni" alt="VTOS">
+    <a href="https://github.com/Sable-20/VTOS" target="_blank">
+      <picture>
+        <source
+          srcset="https://github-readme-stats.vercel.app/api/pin/?username=Sable-20&repo=VTOS&theme=omni"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source 
+          srcset="https://github-readme-stats.vercel.app/api/pin/?username=Sable-20&repo=VTOS&theme=buefy"
+          media="(prefers-color-scheme: light)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sable-20&repo=VTOS" alt="VTOS" />
+      </picture>
+    </a>
   </p>
 </div>
 
