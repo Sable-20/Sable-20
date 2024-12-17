@@ -48,7 +48,7 @@
 <div>
   <p align="center">
     <a href="https://github.com/Sable-20/VTOS">
-      <img width="278" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=omni" alt="VTOS">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Sable-20&repo=VTOS&theme=omni" alt="VTOS">
   </p>
 </div>
 
