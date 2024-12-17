@@ -12,7 +12,7 @@
 
 ###
 <p align="center">
-  <a href="https://github.com/Sable-20/Sable-20"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=SableTheDev" alt="Sable&#39;s WakaTime stats"></a>
+  <a href="https://github.com/Sable-20/Sable-20"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=SableTheDev&theme=omni" alt="Sable&#39;s WakaTime stats"></a>
 </p>
 
 ###
