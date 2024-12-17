@@ -17,12 +17,6 @@
 
 <div>
   <p align="center">
-    <a href="https://wakatime.com"><img src="https://wakatime.com/share/@ea72ab72-e3d9-41de-baf2-b89253f9cca5/f13986d3-abd2-459f-a2b0-949580e8be16.png" /></a>
-  </p>
-</div>
-
-<div>
-  <p align="center">
     <a href="https://wakatime.com/@ea72ab72-e3d9-41de-baf2-b89253f9cca5"><img src="https://wakatime.com/badge/user/ea72ab72-e3d9-41de-baf2-b89253f9cca5.svg?style=for-the-badge" alt="Total time coded since Dec 16 2024" /></a>
   </p>
 </div>
