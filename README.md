@@ -23,6 +23,12 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
+
+<div>
+  <p align="center">
+    <figure><embed src="https://wakatime.com/share/@ea72ab72-e3d9-41de-baf2-b89253f9cca5/0fb1a0f5-5aeb-42a5-a74d-51f800aea828.svg"></embed></figure>
+  </p>
+</div>
 ###
 
 <div align="center">
