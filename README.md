@@ -26,7 +26,7 @@ No activity tracked
 
 <div>
   <p align="center">
-    <figure><embed src="https://wakatime.com/share/@ea72ab72-e3d9-41de-baf2-b89253f9cca5/0fb1a0f5-5aeb-42a5-a74d-51f800aea828.svg"></embed></figure>
+    <a href="https://wakatime.com"><img src="https://wakatime.com/share/@ea72ab72-e3d9-41de-baf2-b89253f9cca5/f13986d3-abd2-459f-a2b0-949580e8be16.png" /></a>
   </p>
 </div>
 
