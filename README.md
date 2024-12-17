@@ -35,6 +35,7 @@
       srcset="https://github-readme-stats.vercel.app/api/wakatime?username=SableTheDev&theme=buefy"
       media="(prefers-color-scheme: light)"
     />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SableTheDev" />
   </picture>
   <!-- <a href="https://github.com/Sable-20/Sable-20"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=SableTheDev&theme=omni" alt="Sable&#39;s WakaTime stats"></a> -->
 </p>
