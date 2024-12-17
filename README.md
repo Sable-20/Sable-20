@@ -24,6 +24,11 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
+<div>
+  <p align="center">
+    <a href="https://wakatime.com/badge/user/ea72ab72-e3d9-41de-baf2-b89253f9cca5/project/e0d1f804-240b-44c7-a3cf-0f2963d68174"><img src="https://wakatime.com/badge/user/ea72ab72-e3d9-41de-baf2-b89253f9cca5/project/e0d1f804-240b-44c7-a3cf-0f2963d68174.svg" alt="wakatime"></a>
+  </p>
+</div>
 ###
 
 <div align="center">
