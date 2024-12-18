@@ -10,18 +10,20 @@
 <br>
 <!-- update -->
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
 ###
 <p align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=SableTheDev&theme=omni"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SableTheDev&layout=compact&theme=omni"
       media="(prefers-color-scheme: dark)"
     />
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=SableTheDev&theme=buefy"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SableTheDev&layout=compact&theme=buefy"
       media="(prefers-color-scheme: light)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SableTheDev" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SableTheDev&layout=compact" />
   </picture>
 </p>
 
