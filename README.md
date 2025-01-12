@@ -14,14 +14,14 @@
 <p align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sable-20&layout=compact&theme=omni"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sable-20&layout=compact&theme=omni&hide=html,js"
       media="(prefers-color-scheme: dark)"
     />
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sable-20&layout=compact&theme=buefy"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sable-20&layout=compact&theme=buefy&hide=html,js"
       media="(prefers-color-scheme: light)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sable-20&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sable-20&layout=compact&hide=html,js" />
   </picture>
 </p>
 
@@ -35,6 +35,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" height="30" alt="ocaml logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="30" alt="Haskell logo" />
 </div>
 
 ###
