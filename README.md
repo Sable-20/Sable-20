@@ -72,6 +72,19 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sable-20&repo=VTOS" alt="VTOS" />
       </picture>
     </a>
+    <a href="https://github.com/Sable-20/haskell-utils" target="_blank">
+      <picture>
+        <source
+          srcset="https://github-readme-stats.vercel.app/api/pin/?username=Sable-20&repo=haskell-utils&theme=omni"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source 
+          srcset="https://github-readme-stats.vercel.app/api/pin/?username=Sable-20&repo=haskell-utils&theme=buefy"
+          media="(prefers-color-scheme: light)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sable-20&repo=haskell-utils" alt="VTOS" />
+      </picture>
+    </a>
   </p>
 </div>
 
