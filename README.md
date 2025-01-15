@@ -85,6 +85,18 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sable-20&repo=haskell-utils" alt="VTOS" />
       </picture>
     </a>
+    <a href="https://github.com/Sable-20/YLIOPIA" target="_blank">
+      <picture>
+        <source
+          srcset="https://github-readme-stats.vercel.app/api/pin/?username=Sable-20&repo=yliopia&theme=omni"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source 
+          srcset="https://github-readme-stats.vercel.app/api/pin/?username=Sable-20&repo=yliopia&theme=buefy"
+          media="(prefers-color-scheme: light)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sable-20&repo=yliopia" alt="VTOS" />
+      </picture>
+    </a>
   </p>
 </div>
-
