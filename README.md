@@ -72,6 +72,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sable-20&repo=VTOS" alt="VTOS" />
       </picture>
     </a>
+    <div style="width: 10px"></div>
     <a href="https://github.com/Sable-20/YLIOPIA" target="_blank">
       <picture>
         <source
