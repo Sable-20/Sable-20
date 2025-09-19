@@ -14,7 +14,7 @@
 <p align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sable-20&layout=compact&theme=omni&hide=html,javascript,pug"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sable-20&layout=compact&theme=omni&hide=html,js,pug"
       media="(prefers-color-scheme: dark)"
     />
     <source 
