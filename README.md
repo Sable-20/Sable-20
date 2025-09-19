@@ -14,14 +14,14 @@
 <p align="center">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sable-20&layout=compact&theme=omni&hide=html,js,pug"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sable-20&layout=compact&theme=omni&hide=JavaScript"
       media="(prefers-color-scheme: dark)"
     />
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sable-20&layout=compact&theme=buefy&hide=html,javascript,pug"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Sable-20&layout=compact&theme=buefy&hide=javascript"
       media="(prefers-color-scheme: light)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sable-20&layout=compact&hide=html,javascript,pug" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sable-20&layout=compact&hide=javascript" />
   </picture>
 </p>
 
