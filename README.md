@@ -54,6 +54,6 @@
 <!-- [![Codewars Badge](https://www.codewars.com/users/dhanushka/badges/large)](https://www.codewars.com/users/dhanushka) -->
 <div>
   <p align="center">
-    [![Codewars Badge](https://www.codewars.com/users/Sable-20/badges/large)](https://www.codewars.com/users/Sable-20)
+    <a href="https://www.codewars.com/users/Sable-20"><img src="https://www.codewars.com/users/Sable-20/badges/large" alt="Codewars Badge"></a>
   </p>
 </div>
